@@ -1,4 +1,4 @@
-### Sentiment Analysis of Yelp Reviews using Naive Bayes Classifier
+## Sentiment Analysis of Yelp Reviews using Naive Bayes Classifier
 
 <br>
 
